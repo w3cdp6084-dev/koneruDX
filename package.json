@@ -11,6 +11,8 @@
     "nuxt": "3.0.0"
   },
   "dependencies": {
-    "@chakra-ui/vue-next": "^1.0.0-alpha.15"
+    "@chakra-ui/nuxt": "^0.6.0",
+    "@chakra-ui/vue-next": "^1.0.0-alpha.15",
+    "@nuxtjs/emotion": "^0.1.0"
   }
 }
