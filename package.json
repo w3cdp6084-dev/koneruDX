@@ -8,12 +8,16 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
+    "@nuxt/bridge": "npm:@nuxt/bridge-edge@^3.0.0-27851925.695ddd7",
     "@nuxtjs/google-fonts": "^2.0.0",
-    "nuxt": "3.0.0"
+    "nuxt": "3.0.0",
+    "sass": "^1.56.2"
   },
   "dependencies": {
     "@chakra-ui/nuxt": "^0.6.0",
     "@chakra-ui/vue-next": "^1.0.0-alpha.15",
-    "@nuxtjs/emotion": "^0.1.0"
+    "@nuxtjs/emotion": "^0.1.0",
+    "@vueuse/shared": "^9.6.0",
+    "sass-loader": "10"
   }
 }
