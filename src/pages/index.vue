@@ -1,3 +1,7 @@
 <template>
-  <h1>Main Page</h1>
+  <Header />
+  <main>
+    <h1>Main Page</h1>
+  </main>
+  <Footer />
 </template>
